@@ -7,6 +7,9 @@ This is the Repository of the Apache Cordova Manager
 ### Tasks & ToDo's
 ###### DONE
 - [x] **create** a new github repo:<br>:octocat: [apache-cordova-manager](https://github.com/praetoriani/apache-cordova-manager)
+- [x] **layout preview** created & uploaded
 ###### TODO
 - [ ] **create** a project structure
-- [ ] **create/upload** some files
+- [ ] **write** some source code
+- [ ] **do** some magic
+- [ ] **release** first build
