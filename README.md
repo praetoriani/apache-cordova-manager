@@ -2,7 +2,7 @@
 This is the Repository of the Apache Cordova Manager
 
 
-**Welcome** to the<br>:octocat:`Apache Cordova Manager`<br>github repo<br><br>
+**Welcome** to the &nbsp;&nbsp; :octocat:`Apache Cordova Manager` &nbsp;&nbsp; github repo<br><br>
 Today we uploaded some graphical layout previews. Just have a look inside the `layout preview` directory...<br>or simply scroll down:<br><br>
 :information_source:&nbsp;&nbsp;**Please Note:**<br>This project is still in development .... stay tuned for further informations.<br><br>
 
