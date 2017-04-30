@@ -22,6 +22,7 @@ During the development I just recognized that the first layout doesn't fit my ne
 - [x] **project structure** (files/folders)
 - [x] **popup windows** included into source code
 - [x] **new gui elements** have been added
+- [x] **4 different app-designs** have been added
 
 ###### TODO
 - [ ] **re-design** some of the screens (e.g. Plugin-Screen)
