@@ -9,7 +9,7 @@ This is the Repository of the Apache Cordova Manager
 
 
 ###### :pushpin: UPDATE (2017/04/29)
-During the development I just recognized that the first layout doesn't fit my needs on some screens (e.g. the Plugin-Screen). So I decided to re-design some of the windows with the goal to make the GUI a bit more simple and user-friendly. This means now to me, that I have to rewrite and/or extend the perl source code to get the desired result. Thought that it would be more easy to write this kind of application :grin:. Stay tuned to get the latest informations about my perl project
+During the development I just recognized that the first layout doesn't fit my needs on some screens (e.g. the Plugin-Screen). So I decided to re-design some of the windows with the goal to make the GUI a bit more simple and user-friendly. This means now to me, that I have to rewrite and/or extend the perl source code to get the desired result. Thought that it would be more easy to write this kind of application :grin:. Stay tuned to get the latest informations about my perl project.<br><br>For those of you who are wondering why it takes so long until the first alpha version is finally available to everyone: I actually have a real job. And this job pays my bills :blush:. So I have only my spare time to take care of this project and make some further development.<br><br>But hey ... do not hesitate to contact me if you want to help me with this project :wink:
 
 
 ---
